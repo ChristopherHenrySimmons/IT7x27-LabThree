@@ -1,0 +1,11 @@
+C:\inetpub\AirPlane\ReservationClient\ReservationClient\bin\Debug\ReservationClient.exe
+C:\inetpub\AirPlane\ReservationClient\ReservationClient\bin\Debug\ReservationClient.pdb
+C:\inetpub\AirPlane\ReservationClient\ReservationClient\bin\Debug\ReservationClient.xml
+C:\inetpub\AirPlane\ReservationClient\ReservationClient\obj\Debug\ReservationClient.vbprojAssemblyReference.cache
+C:\inetpub\AirPlane\ReservationClient\ReservationClient\obj\Debug\ReservationClient.Form1.resources
+C:\inetpub\AirPlane\ReservationClient\ReservationClient\obj\Debug\ReservationClient.Resources.resources
+C:\inetpub\AirPlane\ReservationClient\ReservationClient\obj\Debug\ReservationClient.vbproj.GenerateResource.cache
+C:\inetpub\AirPlane\ReservationClient\ReservationClient\obj\Debug\ReservationClient.vbproj.CoreCompileInputs.cache
+C:\inetpub\AirPlane\ReservationClient\ReservationClient\obj\Debug\ReservationClient.exe
+C:\inetpub\AirPlane\ReservationClient\ReservationClient\obj\Debug\ReservationClient.xml
+C:\inetpub\AirPlane\ReservationClient\ReservationClient\obj\Debug\ReservationClient.pdb
