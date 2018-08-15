@@ -1,0 +1,11 @@
+C:\inetpub\ReservationService\ReservationService\ReservationService\bin\ReservationService.dll.config
+C:\inetpub\ReservationService\ReservationService\ReservationService\bin\ReservationService.dll
+C:\inetpub\ReservationService\ReservationService\ReservationService\bin\ReservationService.pdb
+C:\inetpub\ReservationService\ReservationService\ReservationService\bin\ReservationService.xml
+C:\inetpub\ReservationService\ReservationService\ReservationService\obj\Debug\ReservationService.vbprojAssemblyReference.cache
+C:\inetpub\ReservationService\ReservationService\ReservationService\obj\Debug\ReservationService.Resources.resources
+C:\inetpub\ReservationService\ReservationService\ReservationService\obj\Debug\ReservationService.vbproj.GenerateResource.cache
+C:\inetpub\ReservationService\ReservationService\ReservationService\obj\Debug\ReservationService.vbproj.CoreCompileInputs.cache
+C:\inetpub\ReservationService\ReservationService\ReservationService\obj\Debug\ReservationService.dll
+C:\inetpub\ReservationService\ReservationService\ReservationService\obj\Debug\ReservationService.xml
+C:\inetpub\ReservationService\ReservationService\ReservationService\obj\Debug\ReservationService.pdb
